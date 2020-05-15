@@ -1,0 +1,14 @@
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\bin\Debug\netstandard2.0\Gps.deps.json
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\bin\Debug\netstandard2.0\Gps.dll
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\bin\Debug\netstandard2.0\ref\Gps.dll
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\bin\Debug\netstandard2.0\Gps.pdb
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\obj\Debug\netstandard2.0\Gps.csprojAssemblyReference.cache
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\obj\Debug\netstandard2.0\Gps.csproj.CoreCompileInputs.cache
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\obj\Debug\netstandard2.0\Gps.AssemblyInfoInputs.cache
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\obj\Debug\netstandard2.0\Gps.AssemblyInfo.cs
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\obj\Debug\netstandard2.0\Gps.dll
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\obj\Debug\netstandard2.0\ref\Gps.dll
+C:\Users\jrmai\source\mobile\Gps\Gps\Gps\obj\Debug\netstandard2.0\Gps.pdb
